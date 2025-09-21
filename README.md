@@ -22,7 +22,7 @@ http://localhost:8080/swagger-ui/index.html
 ```
 
 > [!IMPORTANT]
-> breve descripcion que hace nuestro ejemplo practico utizando las hermientas ya mencionada: nuestra api crea saludos personalidados con los metos POST , GET DELETE
+> breve descripcion que hace nuestro ejemplo practico utizando las hermientas ya mencionada: nuestra api crea saludos personalidados con los metodos POST , GET DELETE
 
 
 
